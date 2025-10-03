@@ -30,7 +30,7 @@ The goal is to understand workforce reduction patterns across industries, compan
 
 ## 🛠️ Tools Used  
 - MySQL (queries and analysis)  
-- [Dataset Source] (link if available — e.g., Kaggle or other open dataset)  
+- Dataset Source -AlexTheAnalyst Bootcamp
 
 ---
 
